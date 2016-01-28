@@ -1,0 +1,24 @@
+{
+  "name": "react-native-button",
+  "version": "1.0.0",
+  "description": "React Native Button",
+  "main": "Button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senpng/react-native-button.git"
+  },
+  "keywords": [
+    "React",
+    "ReactNative",
+    "Button"
+  ],
+  "author": "senpng@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senpng/react-native-button/issues"
+  },
+  "homepage": "https://github.com/senpng/react-native-button#readme"
+}
